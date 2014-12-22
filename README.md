@@ -47,4 +47,4 @@ You can call this method everywhere in your code, these are parameter and possib
 })(jQuery);
 ```
 
-<a href="http://www.bouksou.com/scripts/notifier">Demo</a>
+<strong>Demo :</strong> <a href="http://www.bouksou.com/scripts/notifier">http://www.bouksou.com/scripts/notifier</a>
