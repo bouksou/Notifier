@@ -37,6 +37,11 @@ You can call this method everywhere in your code, these are parameter and possib
 		'text' : 'Lorem ipsum Veniam dolor ea Duis nostrud adipisicing veniam ex nulla proident laboris commodo...',
 		'animationIn' : // Animation Entrance : Bounce | Highlight | Pulsat | Shake | Slide ,
 		'animationOut' : // Exit Animation : Blind | Clip | Drop | Explode | Fade | Fold | Puff | Pulsat | Shake,
-		'delay' : 4000 // time delay before the notification disparition by default : 4000
+		'delay' : 4000 // (optional) time delay before the notification disparition by default : 4000,
+		'number' : 5 // (optional) maximum number of notification in the page by default 5,
+		'animationIn_duration' : 'slow' // (optional) entrance animation duration time,
+		'animationOut_duration' : 'slow' // (optional) exit animation duration time
 	});
 ```
+
+<a href="http://www.bouksou.com/scripts/notifier"><h2>Demo</h2></a>
