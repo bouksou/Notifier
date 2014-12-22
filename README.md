@@ -28,7 +28,7 @@ In preference get the jquery libraries which is in reposity
 
 You can call this method everywhere in your code, these are parameter and possible values
 
-```jquery
+```javascript
 	$.notifier({
 		'type': // error | success | warning | info,
 		'positionY': // top | bottom,
