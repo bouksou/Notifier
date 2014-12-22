@@ -28,7 +28,7 @@ In preference get the jquery libraries which is in reposity
 
 You can call this method everywhere in your code, these are parameter and possible values
 
-```jquery
+```javascript
 (function($)
 {
 	$.notifier({
@@ -47,4 +47,4 @@ You can call this method everywhere in your code, these are parameter and possib
 })(jQuery);
 ```
 
-<a href="http://www.bouksou.com/scripts/notifier"><h2>Demo</h2></a>
+<a href="http://www.bouksou.com/scripts/notifier">Demo</a>
