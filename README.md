@@ -28,7 +28,9 @@ In preference get the jquery libraries which is in reposity
 
 You can call this method everywhere in your code, these are parameter and possible values
 
-```javascript
+```jquery
+(function($)
+{
 	$.notifier({
 		'type': // error | success | warning | info,
 		'positionY': // top | bottom,
@@ -42,6 +44,7 @@ You can call this method everywhere in your code, these are parameter and possib
 		'animationIn_duration' : 'slow' // (optional) entrance animation duration time,
 		'animationOut_duration' : 'slow' // (optional) exit animation duration time
 	});
+})(jQuery);
 ```
 
 <a href="http://www.bouksou.com/scripts/notifier"><h2>Demo</h2></a>
