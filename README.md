@@ -1,7 +1,7 @@
 Notifier.js
 =====================
 
-A simple ans lightweight jquery plugin for notifications
+A simple & lightweight jquery plugin for notifications
 
 
 <h1>Installation</h1>
